@@ -29,7 +29,7 @@ This plugin is an attempt to solve that problem. It allows journalists to preser
 
 ## Installation
 
-1.  Download the plugin as a ZIP file.
+1.  Download the plugin as a ZIP file: [get the zip file here](https://github.com/broadstreetads/fuhgeddaboudit/archive/refs/heads/main.zip)
 2.  In your WordPress admin panel, go to **Plugins > Add New**.
 3.  Click on **Upload Plugin**.
 4.  Choose the downloaded ZIP file and click **Install Now**.
